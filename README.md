@@ -32,7 +32,7 @@ Given an input list of strings in format dd.MM.yyyy, please check if any of the 
 
 ### Sample Output
 
-```
+```sh
 04/04/2024 19:54:49 => [Info] RPADev-S03P02-ListsDateTimes execution started
 04/04/2024 19:54:49 => [Info] RPADev-S03P02-ListsDateTimes.Main.Print;
 Today: 2024-04-04
@@ -46,7 +46,6 @@ Today: 2024-04-04
 [1980-01-01, 3]
 [1980-12-12, 8]
 04/04/2024 19:54:49 => [Info] RPADev-S03P02-ListsDateTimes execution ended in: 00:00:00
-
 ```
 
 ### Architecture Requirements
@@ -59,11 +58,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S03P02-ListsDateTimes-VB`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S03P02-ListsDateTimes-VB
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
